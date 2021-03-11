@@ -1,6 +1,6 @@
 package povezana_Lista;
 
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader;
+
 import java.lang.reflect.Array;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
